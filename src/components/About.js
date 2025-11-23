@@ -15,7 +15,7 @@ export default function About() {
   </div>
   <div className="about-video">
   <h2>🎥 Know Me in 3 Minutes</h2>
-  <video src="/My video.mp4" controls className="intro-video" />
+  <video src="/sheena video.mp4" controls className="intro-video" />
 </div>
 
 </div>

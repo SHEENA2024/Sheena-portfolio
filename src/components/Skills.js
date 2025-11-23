@@ -4,7 +4,7 @@ import "../styles.css";
 
 const techSkills = [
   "C++", "Python", "HTML", "CSS", "JavaScript", "React.js", "Node.js",
-  "Express.js", "PostgreSQL", "MongoDB", "Django", "Machine Learning",
+  "Express.js", "PostgreSQL", "AWS Cloud", "Django", "Machine Learning",
 ];
 
 const softSkills = [
@@ -13,7 +13,7 @@ const softSkills = [
 ];
 
 const tools = [
-  "Git", "GitHub", "VS Code", "Postman", "Figma", "Netlify", "Render",
+  "Git", "GitHub", "VS Code", "Kiro","Roboflow","Jupyter Notebook","Edge Impulse",
 ];
 
 const skillLevels = [
