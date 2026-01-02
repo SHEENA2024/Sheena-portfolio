@@ -13,7 +13,7 @@ const softSkills = [
 ];
 
 const tools = [
-  "Git", "GitHub", "VS Code", "Kiro","Roboflow","Jupyter Notebook","Edge Impulse",
+  "Git", "GitHub", "VS Code", "Figma", "Roboflow", "Jupyter Notebook", "Edge Impulse",
 ];
 
 const skillLevels = [

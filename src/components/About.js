@@ -6,7 +6,7 @@ export default function About() {
     <div className="about-section">
   <h2>👩🏻‍💻 About Me</h2>
   <div className="about-content">
-    <img src="/Sheena photo.jpg" alt="Sheena P" className="about-image" />
+    <img src="/sheena-photo.jpg" alt="Sheena P" className="about-image" />
     <p>
       Hey there! I'm Sheena, an AI & ML student passionate about creating tech with a purpose. I love mixing
       design, code, and innovation to bring ideas to life. I believe that technology should be accessible,
@@ -15,7 +15,7 @@ export default function About() {
   </div>
   <div className="about-video">
   <h2>🎥 Know Me in 3 Minutes</h2>
-  <video src="/sheena video.mp4" controls className="intro-video" />
+  <video src="/sheena-video.mp4" controls className="intro-video" />
 </div>
 
 </div>

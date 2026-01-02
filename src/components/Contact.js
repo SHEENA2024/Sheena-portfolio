@@ -9,7 +9,7 @@ export default function Contact() {
 
       <div className="contact-content">
         {/* Contact Form */}
-        <form className="contact-form">
+        <form className="contact-form" onSubmit={(e) => { e.preventDefault(); alert('Thank you! Your message will be sent to p.sheena2020@gmail.com'); }}>
           <input type="text" placeholder="Your Full Name" required />
           <input type="email" placeholder="Your Email Address" required />
           <input type="text" placeholder="Subject" required />

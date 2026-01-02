@@ -18,9 +18,9 @@ function Home() {
         </div>
         
   <section className="floating-tags">
-  <marquee behavior="scroll" direction="left" scrollamount="5">
-    #AI 🌐 #ML 🤖 #WebDev 💻 #Cloud ☁️ #ReactJS ⚛️ #WomenInTech 👩‍💻 #Hackathons 🚀
-  </marquee>
+    <div className="scrolling-text">
+      #AI 🌐 #ML 🤖 #WebDev 💻 #Cloud ☁️ #ReactJS ⚛️ #WomenInTech 👩‍💻 #Hackathons 🚀
+    </div>
 </section>
 
         
