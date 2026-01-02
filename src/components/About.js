@@ -6,7 +6,7 @@ export default function About() {
     <div className="about-section">
   <h2>👩🏻‍💻 About Me</h2>
   <div className="about-content">
-    <img src="/my photo.jpg" alt="Sheena P" className="about-image" />
+    <img src="/Sheena photo.jpg" alt="Sheena P" className="about-image" />
     <p>
       Hey there! I'm Sheena, an AI & ML student passionate about creating tech with a purpose. I love mixing
       design, code, and innovation to bring ideas to life. I believe that technology should be accessible,
